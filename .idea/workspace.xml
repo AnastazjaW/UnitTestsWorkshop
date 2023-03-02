@@ -4,24 +4,164 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc87538d-6100-4076-9f98-7eb651de2c61" name="Changes" comment="" />
+    <list default="true" id="bc87538d-6100-4076-9f98-7eb651de2c61" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/devfoundry/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/devfoundry/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/devfoundry/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/devfoundry/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/devfoundry/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/devfoundry/MealTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Luc6qaxfEBmv4aGFTA8g1sdC7c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pl.devfoundry" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.devfoundry" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.devfoundry" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MealTest">
+    <configuration name="AccountTest.accountShouldBeActiveAfterActivation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestsWorkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.devfoundry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.devfoundry" />
+      <option name="MAIN_CLASS_NAME" value="pl.devfoundry.AccountTest" />
+      <option name="METHOD_NAME" value="accountShouldBeActiveAfterActivation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.defaultDeliveryAddressShouldNotBeNullAfterBeingSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestsWorkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.devfoundry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.devfoundry" />
+      <option name="MAIN_CLASS_NAME" value="pl.devfoundry.AccountTest" />
+      <option name="METHOD_NAME" value="defaultDeliveryAddressShouldNotBeNullAfterBeingSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MealTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestsWorkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.devfoundry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.devfoundry" />
+      <option name="MAIN_CLASS_NAME" value="pl.devfoundry.MealTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MealTest.shouldReturnDiscountedPrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestsWorkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.devfoundry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.devfoundry" />
+      <option name="MAIN_CLASS_NAME" value="pl.devfoundry.MealTest" />
+      <option name="METHOD_NAME" value="shouldReturnDiscountedPrice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MealTest.twoMealsShouldBeEqualWhenPriceAndNameAreTheSame" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestsWorkshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.devfoundry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.devfoundry" />
+      <option name="MAIN_CLASS_NAME" value="pl.devfoundry.MealTest" />
+      <option name="METHOD_NAME" value="twoMealsShouldBeEqualWhenPriceAndNameAreTheSame" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MealTest" />
+        <item itemvalue="JUnit.MealTest.twoMealsShouldBeEqualWhenPriceAndNameAreTheSame" />
+        <item itemvalue="JUnit.MealTest.shouldReturnDiscountedPrice" />
+        <item itemvalue="JUnit.AccountTest.defaultDeliveryAddressShouldNotBeNullAfterBeingSet" />
+        <item itemvalue="JUnit.AccountTest.accountShouldBeActiveAfterActivation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,8 +170,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676724239685</updated>
+      <workItem from="1676724241345" duration="7729000" />
+      <workItem from="1676755870200" duration="2601000" />
+      <workItem from="1676819058318" duration="7323000" />
+      <workItem from="1677011178776" duration="299000" />
+      <workItem from="1677684263865" duration="7009000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
